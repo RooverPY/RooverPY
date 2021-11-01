@@ -13,7 +13,7 @@ About-Me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 
 
