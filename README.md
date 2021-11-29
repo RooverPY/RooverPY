@@ -11,7 +11,7 @@ About-Me:
 ```
 
 #### Mostly known for developing Discord bots, tools, and exploits.
-Friend me here (Although my username changes often): 𝚁𝚘𝚘𝚟𝚎𝚛 𐰅#2156
+Friend me here (Although my username changes often): Roover#3318
 
 <hr>
  
