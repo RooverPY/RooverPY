@@ -12,10 +12,11 @@ About-Me:
 
 #### Mostly known for developing Discord bots, and tools.
 Friend me here (Although my username changes often): Roover#3318
-Favorite People:
 
-<a href="https://github.com/Shell1010" title=" - Shell">
-<a href="https://github.com/milkycereal" title=" - Cereal">
+Also Follow:
+
+https://github.com/Shell1010
+https://github.com/milkycereal
 
 <hr>
  
