@@ -14,12 +14,11 @@ About-Me:
 Friend me here (Although my username changes often): Roover#3318
 Favorite People:
 
- [Shell]("https://github.com/Shell1010")
- [Cereal]("https://github.com/milkycereal")
+<a href="https://github.com/Shell1010" title=" - Shell">
+<a href="https://github.com/milkycereal" title=" - Cereal">
 
 <hr>
  
-<img src="https://raw.githubusercontent.com/RooverPY/RooverPY/output/github-contribution-grid-snake.svg" alt="snek">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
