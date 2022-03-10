@@ -19,7 +19,7 @@ Favorite People:
 
 <hr>
  
-<img src="https://raw.githubusercontent.com/RooverPY/RooverPY/output/github-contribution-grid-snake.svg" alt="snek"></center>
+<img src="https://raw.githubusercontent.com/RooverPY/RooverPY/output/github-contribution-grid-snake.svg" alt="snek">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
