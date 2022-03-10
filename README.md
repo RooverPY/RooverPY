@@ -14,9 +14,8 @@ About-Me:
 Friend me here (Although my username changes often): Roover#3318
 Favorite People:
 
-- [Shell]("https://github.com/Shell1010")
-- [Cereal]("https://github.com/milkycereal")
-- 
+ [Shell]("https://github.com/Shell1010")
+ [Cereal]("https://github.com/milkycereal")
 
 <hr>
  
